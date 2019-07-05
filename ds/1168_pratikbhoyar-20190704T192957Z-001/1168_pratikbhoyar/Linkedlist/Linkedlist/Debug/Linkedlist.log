@@ -1,0 +1,3 @@
+﻿  linkedList.cpp
+c:\users\dac\desktop\pratik1168\linkedlist\linkedlist\linkedlist.cpp(83): warning C4715: 'LinkedList::removefromposition': not all control paths return a value
+  Linkedlist.vcxproj -> C:\Users\dac\Desktop\pratik1168\Linkedlist\Debug\Linkedlist.exe
